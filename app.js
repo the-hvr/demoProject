@@ -9,4 +9,4 @@
 //git checkout -b branchName  => to create new branch
 //git branch -d => to delete existing branch 
 
-//git push --set-upstream origin feature01  => to set upstream for feature branch
+//git push --set-upstream origin feature01  => to set upstream for feature branch.
