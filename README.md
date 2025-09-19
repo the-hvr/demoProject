@@ -11,4 +11,4 @@ the purpose of this repo is only make new git repo through local system.
 
  NOTE : If we modify a single file, then in that case we can do add & commit together.
  for this we can use =>  git commit -am "msg"
- here -a stand for add and m stand for m
+ here -a stand for add and m stand for msg.
